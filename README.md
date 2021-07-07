@@ -13,7 +13,7 @@
 <br/>
 
 - 🔭 I’m currently working on [Bahwan Cyber Tek](https://www.bahwancybertek.com/).
-- 🌱 I’m currently learning more about BlockChain.
+- 🌱 I’m currently learning more about Blockchain & cryptocurrency.
 - 📫 How to reach me: [Twitter - @vivekebiit](https://twitter.com/vivekebiit) , [Linkedin - @vivek-ellappan-39aa83192](https://www.linkedin.com/in/vivek-ellappan-39aa83192/)
 
 
