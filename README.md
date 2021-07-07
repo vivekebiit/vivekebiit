@@ -1,6 +1,6 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Vivek Ellappan
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekebiit&label=Views&color=blue&style=plastic" alt="vivekebiit" /> </p>
 
 <a href="https://twitter.com/vivekebiit">
   <img align="left" alt="Vivek's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
