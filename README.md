@@ -27,7 +27,7 @@
 ![CSS](https://img.shields.io/badge/CSS-BEGINNER-green)
 ![CSS](https://img.shields.io/badge/JAVASCRIPT-BEGINNER-green)
    
-### Technologies
+## Technologies
 
 ![Android](https://img.shields.io/badge/-Android-fff?&logo=Android&logoColor=000)
 ![Flutter](https://img.shields.io/badge/-Flutter-fff?&logo=flutter&logoColor=000)
