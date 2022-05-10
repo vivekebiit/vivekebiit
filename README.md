@@ -36,12 +36,4 @@
 ![Linux](https://img.shields.io/badge/-Linux-fff?&logo=Linux&logoColor=000)
 
 
-<a href="https://github.com/vivekebiit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekebiit&theme=light&hide_langs_below=1" />
-</a>
 
-
-
-<a href="https://github.com/vivekebiit">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vivekebiit&show_icons=true&theme=light&line_height=27" alt="Vivek's github stats"/>
-</a>
