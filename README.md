@@ -2,8 +2,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekebiit&label=Views&color=blue&style=plastic" alt="vivekebiit" /> </p>
 
-
-- 🔭 I work in [Bahwan Cyber Tek](https://www.bahwancybertek.com/).
+- 👋 Hi, I’m Vivek Ellappan
+- 👀 I’m interested in mobile technologies
+- 🌱 I’m currently working in Flutter
+- 💞️ I’m looking to collaborate on Android applications
+- 🔭 I work in [Bahwan Cyber Tek](https://www.bahwancybertek.com/)
 - 📫 How to reach me: [Twitter - @vivekebiit](https://twitter.com/vivekebiit) , [Linkedin - @vivek-ellappan-39aa83192](https://www.linkedin.com/in/vivek-ellappan-39aa83192/)
 
 
@@ -33,17 +36,6 @@
 ![Android](https://img.shields.io/badge/-Android-fff?&logo=Android&logoColor=000)
 ![Firebase](https://img.shields.io/badge/-Firebase-fff?&logo=Firebase&logoColor=000)
 ![Linux](https://img.shields.io/badge/-Linux-fff?&logo=Linux&logoColor=000)
-
-## 💳 Github Profile Summary Card
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vivekebiit&theme=vue"/>
-</p>
-
-## 📟 GitHub Stats
-<p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=vivekebiit&show_icons=true&theme=vue" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekebiit&theme=vue" />
-</p>
 
 
 
