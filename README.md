@@ -21,15 +21,6 @@
 [![CSS](https://img.shields.io/badge/-CSS-fff?&logo=css3&logoColor=264de4)](https://github.com/amalnathm7?tab=repositories&q=&type=&language=CSS)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=javascript&logoColor=f0db4f)](https://github.com/amalnathm7?tab=repositories&q=&type=&language=JavaScript)
 
-![CSS](https://img.shields.io/badge/C-EXPERT-orange)
-![CSS](https://img.shields.io/badge/JAVA-EXPERT-orange)
-![CSS](https://img.shields.io/badge/C++-INTERMEDIATE-blue)
-![CSS](https://img.shields.io/badge/DART-EXPERT-orange)
-![CSS](https://img.shields.io/badge/PYTHON-BEGINNER-green)
-![CSS](https://img.shields.io/badge/HTML-BEGINNER-green)
-![CSS](https://img.shields.io/badge/CSS-BEGINNER-green)
-![CSS](https://img.shields.io/badge/JAVASCRIPT-BEGINNER-green)
-   
 ## Technologies
 
 ![Flutter](https://img.shields.io/badge/-Flutter-fff?&logo=flutter&logoColor=000)
