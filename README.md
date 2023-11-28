@@ -7,7 +7,7 @@
 - 🌱 I’m currently working in Flutter
 - 💞️ I’m looking to collaborate on Android applications
 - 🔭 I work in [Bahwan Cyber Tek](https://www.bahwancybertek.com/)
-- 📫 How to reach me: [Twitter - @vivekebiit](https://twitter.com/vivekebiit) , [Linkedin - @vivek-ellappan-39aa83192](https://www.linkedin.com/in/vivek-ellappan-39aa83192/)
+- 📫 How to reach me: [Linkedin - @vivek-ellappan-39aa83192](https://www.linkedin.com/in/vivek-ellappan-39aa83192/)
 
 
 ## Languages
